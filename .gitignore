@@ -2,4 +2,6 @@
 *credits.parquet
 *movies_dataset.parquet
 nltk_data/
+
 __pycache__/
+*.pyc
