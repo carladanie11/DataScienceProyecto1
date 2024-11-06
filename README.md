@@ -120,8 +120,8 @@ El sistema proporciona:
 - Recomendaciones personalizadas basadas en contenido
 - API accesible y documentada, implementada con FastAPI y desplegada en Render.com.
 
-Link a la API en Render: https://datascienceproyecto1-7.onrender.com
-Link video en YouTube: https://youtu.be/EzoDrYsMtCI/docs
+Link a la API en Render: https://datascienceproyecto1-7.onrender.com/docs
+Link video en YouTube: https://youtu.be/EzoDrYsMtCI
 
 ## Contribución y Colaboración
 
