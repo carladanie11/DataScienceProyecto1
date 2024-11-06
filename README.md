@@ -93,8 +93,8 @@ uvicorn src.main:app --reload
 ## Datos y Fuentes
 
 El proyecto utiliza datos procesados de películas almacenados en formato parquet:
-- `movies_dataset.parquet`: Dataset principal de películas
-- `credits.parquet`: Información sobre elencos y equipos de producción
+- `movies_dataset`: Dataset principal de películas
+- `credits`: Información sobre elencos y equipos de producción
 
 Los datos han sido procesados y transformados los cuales se presentan en la carpeta processed_data
 
@@ -118,7 +118,9 @@ El sistema proporciona:
 - Análisis detallado de películas y estadísticas
 - Información sobre rendimiento de actores y directores
 - Recomendaciones personalizadas basadas en contenido
-- API accesible y documentada
+- API accesible y documentada, implementada con FastAPI y desplegada en Render.com.
+
+Link a la API en Render: https://datascienceproyecto1-7.onrender.com
 
 ## Contribución y Colaboración
 
