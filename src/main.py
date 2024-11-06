@@ -20,7 +20,7 @@ app = FastAPI()
 # Cargar DataFrames
 
 # df = pd.read_parquet('data/processed_data/movies/movies_dataset_etl.parquet')
-df = pd.read_parquet('/home/carla/Documentos/DataScienceProyecto1/DataScienceProyecto1/data/processed_data/movies/movies_dataset_etl.parquet')
+df = pd.read_parquet('data/processed_data/movies/movies_dataset_etl.parquet')
 
 
 df_cast = pd.read_parquet('/home/carla/Documentos/DataScienceProyecto1/DataScienceProyecto1/data/processed_data/credits/cast_desanidado.parquet')
